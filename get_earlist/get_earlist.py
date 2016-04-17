@@ -1,8 +1,10 @@
 from itertools import permutations
 from datetime import date
 
+
 class InvalidDateException(Exception):
     pass
+
 
 class GetEarlist:
     MAX_YEAR = 2999

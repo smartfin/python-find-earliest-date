@@ -16,4 +16,3 @@ with open(args.filename, 'r') as reader:
             print input_string + ' => ' + output
         except InvalidDateException:
             print input_string + ' is illegal'
-
