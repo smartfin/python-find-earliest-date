@@ -2,6 +2,6 @@
 
 how to run:
 
-```python
+```shell
 python process.py --file ./data.txt
 ```
